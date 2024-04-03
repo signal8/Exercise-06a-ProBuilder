@@ -2,6 +2,6 @@
 
 # References
 
-Textures from: https://freepbr.com/
+Textures from: https://freepbr.com/ & https://polyhaven.com
 
-# Created by Nathan Mishler
+# Created by Levi Coffing, Master of Reality
